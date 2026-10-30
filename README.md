@@ -104,5 +104,4 @@ working directory. METR-LA is downloaded automatically on first run.
 
 ## Author
 Nana Kwabena Opoku-Acheampong
-MSc Artificial Intelligence, University of Cape Town
 [LinkedIn](https://linkedin.com/in/nana-kwabena-opokuacheampong-623981237)
