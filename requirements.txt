@@ -1,0 +1,10 @@
+torch
+torch-geometric
+pytorch-lightning
+einops
+numpy
+pandas
+matplotlib
+seaborn
+tensorboard
+tsl @ git+https://github.com/TorchSpatiotemporal/tsl.git
